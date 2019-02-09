@@ -2,7 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
 
-## Development server
+## Installing Node Modules
+
+Run `npm install' for installing the node modules and packages.
+
+## Development server & view the page
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
