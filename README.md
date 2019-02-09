@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Installing Node Modules
 
-Run `npm install' for installing the node modules and packages.
+Run `npm install` for installing the node modules and packages.
 
 ## Development server & view the page
 
